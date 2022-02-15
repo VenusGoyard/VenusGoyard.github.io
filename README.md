@@ -1,2 +1,1 @@
-# core_interactions
-my core interactions assignments using html and CSS
+this is the recipe assignment as a web page
